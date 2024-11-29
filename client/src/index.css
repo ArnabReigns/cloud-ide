@@ -1,0 +1,18 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+.xterm {
+	font-family: "Fira Code", monospace; /* Example font */
+	font-size: 14px; /* Adjust size as needed */
+	background-color: black; /* Background color */
+	color: white; /* Text color */
+}
